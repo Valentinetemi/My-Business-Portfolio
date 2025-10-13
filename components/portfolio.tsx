@@ -24,7 +24,7 @@ const projects = [
       "Automated Booking",
     ],
     image: "/image2.png",
-    caseStudyUrl: "/https://delly-cake.vercel.app/",
+    caseStudyUrl: "https://delly-cake.vercel.app",
   },
   {
     title: "GoldCard Spa",
@@ -34,7 +34,7 @@ const projects = [
     tech: ["Next.js", "Vercel", "Google Analytics", "Google Maps"],
     features: ["Smart contact forms", "SEO Integration", "Analytics dashboard"],
     image: "/image3.png",
-    caseStudyUrl: "/https://goldcardspa.com.ng/",
+    caseStudyUrl: "https://goldcardspa.com.ng",
   },
 
   {
@@ -50,7 +50,7 @@ const projects = [
       "API Integration",
     ],
     image: "/image5.png",
-    caseStudyUrl: "/https://youtu.be/P0LaTboOQyE?si=Wdu34jQ2XuJP_6uS/",
+    caseStudyUrl: "https://youtu.be/P0LaTboOQyE?si=Wdu34jQ2XuJP_6uS",
   },
   {
     title: "Scentaris",
@@ -60,7 +60,7 @@ const projects = [
     features: ["Mockups", "Logos", "Responsive Website"],
     image: "/image7.png",
     caseStudyUrl:
-      "/https://www.behance.net/gallery/223176613/Scentaris-Luxury-Perfume-Branding-Mockups/",
+      "https://www.behance.net/gallery/223176613/Scentaris-Luxury-Perfume-Branding-Mockups",
   },
   {
     title: "ELAN MODE",
@@ -72,7 +72,7 @@ const projects = [
     features: ["Payment Intergration", "Shopping cart", "Responsive Design"],
     image: "/image4.png",
     caseStudyUrl:
-      "/https://valentinetemi.github.io/Elan-Mode--Fashion-Website/index.html#home/",
+      "https://valentinetemi.github.io/Elan-Mode--Fashion-Website/index.html#home",
   },
 
   {
@@ -83,7 +83,7 @@ const projects = [
     features: ["Beautiful mockup", "Attractive Logo"],
     image: "/image8.jpeg",
     caseStudyUrl:
-      "/ https://www.behance.net/gallery/222611113/Poutella-Where-Beauty-Meets-Elegance/",
+      "https://www.behance.net/gallery/222611113/Poutella-Where-Beauty-Meets-Elegance",
   },
 ];
 
