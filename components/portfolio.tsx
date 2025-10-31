@@ -12,6 +12,21 @@ import Image from "next/image";
 
 const projects = [
   {
+    title: "Snap Beauty",
+    description:
+      "Premium and professional photography website showcasing moment capturing African Beauty with modern, responsive design",
+    result:
+      "Professional photography website boosting visibility and customer engagement",
+    tech: ["Next.js", "React", "Tailwind CSS"],
+    features: [
+      "Real-time availability",
+      "Beautiful Gallery",
+      "Real-time Client Reviews",
+    ],
+    image: "/image10.png",
+    caseStudyUrl: "https://snap-beauty-website.vercel.app/",
+  },
+  {
     title: "Delly Cakes",
     description:
       "Elegant bakery website showcasing cakes with modern, responsive design",
